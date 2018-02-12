@@ -1,0 +1,48 @@
+.col1 {
+    text-align: center;
+    padding-bottom: 120px;
+}
+
+h1 {
+    letter-spacing: 5px;
+    margin-right: 45px;
+}
+
+#btn1 {
+    height: 23px;
+    width: 60px;
+}
+
+#clear {
+    width: 150px;
+    height: 70px;
+    border-radius: 10px;
+    margin-left: 350px;
+}
+
+#exit {
+    width: 150px;
+    height: 70px;
+    border-radius: 10px;
+}
+
+.form {
+    margin-left: 350px;
+    padding-bottom: 100px;
+}
+
+#prompt {
+    margin-left: 350px;
+    font-size: 20px;
+}
+
+#submit {
+    margin-left: 15px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#goodbye {
+    text-align: center;
+}
+
